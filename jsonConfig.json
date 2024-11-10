@@ -1,0 +1,10 @@
+{
+	"scriptRunStatus"	: true,
+	"GRT"				: 
+	{				
+		"grtJewelsLink"	    : "https://www.grtjewels.com/",
+		"cachePath"			: "Cache/",
+		"outputPath"		: "Output/",
+		"excelHeaders"		: ["Date", "24K GOLD/1g", "24K GOLD/1g Diff", "24K GOLD/8g", "24K GOLD/8g Diff", "22K GOLD/1g", "22K GOLD/1g Diff", "22K GOLD/8g", "22K GOLD/8g Diff", "18K GOLD/1g", "18K GOLD/1g Diff", "18K GOLD/8g", "18K GOLD/8g Diff", "PLATINUM/1g", "PLATINUM/1g Diff", "PLATINUM/8g", "PLATINUM/8g Diff", "SILVER/1g", "SILVER/1g Diff", "SILVER/8g", "SILVER/8g Diff", "Captured Time"]
+	}
+}
